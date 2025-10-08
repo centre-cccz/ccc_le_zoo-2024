@@ -1,0 +1,46 @@
+# Centre Culturel Congolais le ZOO — Projet 2024
+
+Projet de gestion, d’animation, et de valorisation des activités culturelles du Centre.
+
+## Organisation par Directions
+
+### Administrative
+- Gestion du personnel, des archives, des procédures internes.
+- Conformité avec la législation congolaise et la tutelle.
+
+### Finances
+- Suivi budgétaire, rapports financiers, transparence.
+- Tableaux de bord pour la gestion des subventions et recettes.
+
+### Animation & Préservation culturelle
+- Calendrier d’événements, ateliers, expositions.
+- Valorisation du patrimoine et transmission des savoirs.
+
+### Intendance
+- Gestion du matériel, inventaires, logistique des espaces.
+
+### Bibliothèque
+- Catalogage, gestion et mise à disposition des ouvrages.
+- Numérisation et préservation des collections.
+
+### Économie culturelle
+- Développement de projets rentables, partenariats, veille sur les financements.
+
+## Synchronisation & Sauvegarde
+
+Ce projet est automatiquement synchronisé sur GitHub :
+- Script `auto_sync.bat` exécuté toutes les heures via le Planificateur de tâches.
+- Traçabilité et transparence assurées.
+
+## Contribution
+
+1. Cloner le dépôt :  
+   ```bash
+   git clone https://github.com/centre-cccz/ccc_le_zoo-2024.git
+   ```
+2. Travailler dans votre branche puis synchroniser via le script automatique.
+
+## Bonne gouvernance
+
+- Tous les documents sont versionnés et archivés.
+- Respect des règles de gestion publique et de valorisation de la culture congolaise.
